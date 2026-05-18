@@ -94,7 +94,7 @@ function CheckCircle({ size = 22, bg = "#7751CF" }) {
       <circle cx="11" cy="11" r="11" fill={bg} />
       <polyline
         points="6 11.5 9.5 15 16 8"
-        stroke="#fff"
+        stroke="#F77D1A"
         strokeWidth="2.2"
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -904,19 +904,19 @@ function Hero() {
           }} className="hero-lede">
             {[
               {
-                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>,
+                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F77D1A" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>,
                 text: "170+ atividades progressivas",
               },
               {
-                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>,
+                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F77D1A" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>,
                 text: "Jogos e fichas interativas",
               },
               {
-                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M18 11V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v0M14 10V4a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v2M10 10.5V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v8"/><path d="M18 11a2 2 0 1 1 4 0v3a8 8 0 0 1-8 8h-2a8 8 0 0 1-8-8v-3a2 2 0 1 1 4 0"/></svg>,
+                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F77D1A" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M18 11V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v0M14 10V4a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v2M10 10.5V6a2 2 0 0 0-2-2v0a2 2 0 0 0-2 2v8"/><path d="M18 11a2 2 0 1 1 4 0v3a8 8 0 0 1-8 8h-2a8 8 0 0 1-8-8v-3a2 2 0 1 1 4 0"/></svg>,
                 text: "Estimulação sensorial com textura",
               },
               {
-                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>,
+                icon: <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#F77D1A" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>,
                 text: "Imprime em casa, quantas vezes quiser",
               },
             ].map((item, i) => (
