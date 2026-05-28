@@ -837,7 +837,7 @@ function StickyUrgencyBar() {
 
         {/* CTA */}
         <button
-          onClick={() => window.location.href = "https://pay.kiwify.com.br/qI0dhGA"}
+          onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
           style={{
             background: "#F77D1A",
             color: "#fff",
@@ -938,7 +938,7 @@ function Hero() {
           <div style={{ display: "flex", gap: 16, flexWrap: "wrap", alignItems: "center" }} className="hero-ctas">
             <button
               className="cta"
-              onClick={() => document.getElementById('skills').scrollIntoView({ behavior: 'smooth' })}
+              onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
             >
               {c.cta}
               <span className="arrow">›</span>
@@ -1556,7 +1556,7 @@ function KitOverview() {
         {/* CTA */}
         <div style={{ textAlign: "center", marginTop: 56 }}>
           <button
-            onClick={() => window.location.href = "https://pay.kiwify.com.br/qI0dhGA"}
+            onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
             style={{
               display: "inline-flex",
               alignItems: "center",
@@ -2004,7 +2004,7 @@ function HowToApply() {
         {/* CTA */}
         <div style={{ textAlign: "center", marginTop: 64 }}>
           <button
-            onClick={() => window.location.href = "https://pay.kiwify.com.br/qI0dhGA"}
+            onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
             style={{
               display: "inline-flex",
               alignItems: "center",
@@ -2211,7 +2211,7 @@ function ProductCard() {
           {/* CTA */}
           <button
             className="pulse-button"
-            onClick={() => window.location.href = "https://pay.kiwify.com.br/qI0dhGA"}
+            onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
             style={{
               width: "100%", background: "#F77D1A", color: "#fff", border: 0,
               borderRadius: 999, padding: "20px 32px",
@@ -2380,7 +2380,7 @@ function Footer() {
           </div>
           {/* CTA */}
           <button
-            onClick={() => window.location.href = "https://pay.kiwify.com.br/qI0dhGA"}
+            onClick={() => window.location.href = "https://pay.wiapy.com/LgP6O73IIF"}
             style={{
               display: "inline-flex", alignItems: "center", gap: 10,
               background: "#F77D1A", color: "#fff", border: 0, borderRadius: 999,
