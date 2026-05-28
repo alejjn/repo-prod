@@ -857,7 +857,7 @@ function StickyUrgencyBar() {
           onMouseEnter={e => { e.currentTarget.style.transform = "scale(1.05)"; }}
           onMouseLeave={e => { e.currentTarget.style.transform = "scale(1)"; }}
         >
-          Quero meu pequeno lendo — R$ 29,90 ›
+          Quero meu pequeno lendo — R$ 19,90 ›
         </button>
       </div>
 
@@ -2205,7 +2205,7 @@ function ProductCard() {
             <p style={{ margin: "0 0 4px", fontFamily: "'Nunito', sans-serif", fontSize: 13, color: "#6b6b8a", fontWeight: 600 }}>
               De <span style={{ textDecoration: "line-through" }}>R$ 199</span> — Economize 87%
             </p>
-            <p style={{ margin: 0, fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: "clamp(28px, 4vw, 40px)", color: "#F77D1A" }}>R$ 29,90</p>
+            <p style={{ margin: 0, fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: "clamp(28px, 4vw, 40px)", color: "#F77D1A" }}>R$ 19,90</p>
           </div>
 
           {/* CTA */}
